@@ -1,5 +1,5 @@
 # Text-based LAN Multiplayer game
-Role-playing LAN multiplayer game developed in Python3 as a college project
+Role-playing LAN multiplayer game developed in Python3 as a college project.
 <h1 align="center">INSTRUCTIONS</h1>
 To start playing, you must run the server (server.py) and then, run client.py (one per player) by terminal.
 <h3>Server</h3>
